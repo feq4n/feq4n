@@ -8,8 +8,8 @@
 
 <br/>
 
-<a href="https://feq4n-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:feqangerayli1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.feqan.com.tr"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:feqangerayli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/feq4n"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
@@ -21,7 +21,7 @@
 ```javascript
 const feq4n = {
     role: "Full-Stack Developer",
-    stack: ["JavaScript", "HTML5", "CSS3", "Firebase", "Vercel"],
+    stack: ["JavaScript", "HTML5", "CSS3", "Firebase"],
     focus: "Building products that actually work, end to end",
     currentlyBuilding: "Web platforms with real-time data & admin tooling",
     funFact: "Prefers vanilla JS over frameworks when it makes sense"
@@ -31,7 +31,7 @@ const feq4n = {
 - 🔭 Currently building full-stack web platforms with **Firebase Realtime Database** & **Auth**
 - ⚡ Comfortable owning a project end to end — frontend, backend, and admin tooling
 - 🌱 Always refining UI/UX with a dark, modern, no-fluff design philosophy
-- 📫 Reach me at **feqangerayli1@gmail.com**
+- 📫 Reach me at **feqangerayli@gmail.com**
 
 <br/>
 
@@ -146,7 +146,7 @@ const feq4n = {
 
 ### Let's connect
 
-<a href="mailto:feqangerayli1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:feqangerayli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/feq4n"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/><br/>
