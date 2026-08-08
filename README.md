@@ -1,158 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Feq4n&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:2e2e2e&height=220&section=header&text=Feq4n&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=20&descColor=cccccc" width="100%"/>
 
 <a href="https://github.com/feq4n">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%7C+Firebase+%7C+Vercel;Building+clean%2C+fast%2C+working+products;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;Discord+Bots+%7C+Web+Platforms+%7C+Automation;Building+clean%2C+fast%2C+working+products" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.feqan.com.tr"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:feqangerayli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/feq4n"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.feqan.com.tr"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.feqanbot.com.tr"><img src="https://img.shields.io/badge/FeqanBot-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:feqangerayli@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/feq4n"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `01` About Me
 
 ```javascript
 const feq4n = {
-    role: "Full-Stack Developer",
-    stack: ["JavaScript", "HTML5", "CSS3", "Firebase"],
-    focus: "Building products that actually work, end to end",
-    currentlyBuilding: "Web platforms with real-time data & admin tooling",
-    funFact: "Prefers vanilla JS over frameworks when it makes sense"
+  role: "Full-Stack Developer",
+  location: "Azerbaijan 🇦🇿",
+  stack: ["JavaScript", "TypeScript", "Node.js", "Next.js"],
+  focus: "Discord bots, web platforms & automation tools",
+  currentlyBuilding: "A private family photo archive w/ Cloudflare R2 + Neon",
+  philosophy: "Ship it clean, ship it working, ship it end to end",
 };
 ```
 
-- 🔭 Currently building full-stack web platforms with **Firebase Realtime Database** & **Auth**
-- ⚡ Comfortable owning a project end to end — frontend, backend, and admin tooling
-- 🌱 Always refining UI/UX with a dark, modern, no-fluff design philosophy
+- 🔭 Building full-stack platforms — frontend, backend, admin tooling, all owned end to end
+- 🤖 Deep in the Discord bot ecosystem — moderation, automation, multi-server architecture
+- 🌱 Refining a dark, minimal, no-fluff UI/UX philosophy across every project
+- 📝 Documenting projects in Turkish for the local dev community
 - 📫 Reach me at **feqangerayli@gmail.com**
 
 <br/>
 
-## Tech Stack
+## `02` Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
 
 **Backend & Runtime**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord.js-000000?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-**Databases**
+**Databases & Storage**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 
 **Cloud & Hosting**
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase_Hosting-000000?style=for-the-badge&logo=firebase&logoColor=white" />
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Other Services**
-
-![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=maildotru&logoColor=white)
-![Discord API](https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>
 
 <br/>
 
-## Featured Project
+## `03` Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/feq4n/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=feq4n&repo=portfolio&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" />
+<a href="https://github.com/feq4n/Feqan-Bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=feq4n&repo=Feqan-Bot&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+</a>
+<a href="https://github.com/feq4n/VeraxCloud">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=feq4n&repo=VeraxCloud&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+</a>
+
+<a href="https://github.com/feq4n/Personal-Website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=feq4n&repo=Personal-Website&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+</a>
+<a href="https://github.com/feq4n/Bot-Website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=feq4n&repo=Bot-Website&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+</a>
+
+<a href="https://github.com/feq4n/Zikirmatik">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=feq4n&repo=Zikirmatik&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
 </a>
 
 </div>
 
 <br/>
 
-## GitHub Stats
+## `04` GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=feq4n&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&ring_color=6366f1" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feq4n&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=feq4n&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feq4n&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" width="41%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=feq4n&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=feq4n&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888" width="60%"/>
 
 </div>
 
 <br/>
 
-## Contribution Graph
+## `05` Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=feq4n&theme=react-dark&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=feq4n&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true&area=true&area_color=ffffff" width="100%"/>
 
 </div>
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <div align="center">
 
-### Let's connect
+### Let's Connect
 
-<a href="mailto:feqangerayli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/feq4n"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="mailto:feqangerayli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/feq4n"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.feqan.com.tr"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://www.instagram.com/feqan_gerayl1"><img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=feq4n&color=6366f1&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=feq4n&color=000000&style=flat-square&label=Profile+Views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e2e2e,50:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
