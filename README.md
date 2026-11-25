@@ -62,7 +62,3 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=feq4n&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F229357794%3Fu%3D8de5a55aa9d23978030ced55eeaaaf8a14e80987%26v%3D4" alt="feq4n social visual" />
 </p>
-
-</details>
-
-<p align="center"><sub>Feqan Gerayli · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
